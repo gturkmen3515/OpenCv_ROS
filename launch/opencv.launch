@@ -1,0 +1,3 @@
+<launch>
+  <node name="opencv_node" pkg="OpenCv_ROS" type="opencv_node" output="screen"/>
+</launch>
